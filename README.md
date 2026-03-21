@@ -1,3 +1,5 @@
+[![MCP Server](https://glama.ai/mcp/servers/rog0x/mcp-regex-tools/badges/score.svg)](https://glama.ai/mcp/servers/rog0x/mcp-regex-tools)
+
 # mcp-regex-tools
 
 Regex and text processing tools for AI agents via the Model Context Protocol (MCP).
